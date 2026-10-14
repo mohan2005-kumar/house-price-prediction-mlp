@@ -1,0 +1,9 @@
+{
+  "MAE": 1486576.03,
+  "RMSE": 2162093.3,
+  "R2_Score": 0.9752,
+  "MAPE_Percent": 7.94,
+  "Residual_Mean": 65486.23,
+  "Residual_Std": 2161101.34,
+  "Test_Samples_Count": 750
+}
